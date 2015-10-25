@@ -1,0 +1,23 @@
+name: jocelynke
+favicon: null
+layout_spectrum: 0.3822627943009138
+typography_spectrum: 0.8416628835257143
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9559106952510774
+  lightness: 0.7078961099032313
+  saturation: 0.9171384032815695
+  rhythmicContrast: 0.31858497648499906
+purpose: []
