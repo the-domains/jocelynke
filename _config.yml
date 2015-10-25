@@ -1,6 +1,6 @@
 name: jocelynke
 favicon: null
-layout_spectrum: 0.3822627943009138
+layout_spectrum: 0.56818
 typography_spectrum: 0.8416628835257143
 title: Jocelyn Ke
 cta:
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#fdfdd9'
+    - '#292730'
+    - '#4f4b55'
+    - '#7e645d'
+    - '#a7866a'
   brandStrength: 0.9559106952510774
   lightness: 0.7078961099032313
   saturation: 0.9171384032815695
